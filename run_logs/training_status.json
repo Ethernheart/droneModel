@@ -1,0 +1,47 @@
+{
+    "Movement": {
+        "checkpoints": [
+            {
+                "steps": 499959,
+                "file_path": "results\\test13\\Movement\\Movement-499959.onnx",
+                "reward": null,
+                "creation_time": 1703289167.08011,
+                "auxillary_file_paths": [
+                    "results\\test13\\Movement\\Movement-499959.pt"
+                ]
+            },
+            {
+                "steps": 999948,
+                "file_path": "results\\test13\\Movement\\Movement-999948.onnx",
+                "reward": 0.3000001907348633,
+                "creation_time": 1703291509.3858685,
+                "auxillary_file_paths": [
+                    "results\\test13\\Movement\\Movement-999948.pt"
+                ]
+            },
+            {
+                "steps": 1000110,
+                "file_path": "results\\test13\\Movement\\Movement-1000110.onnx",
+                "reward": 0.3000001907348633,
+                "creation_time": 1703291509.4611287,
+                "auxillary_file_paths": [
+                    "results\\test13\\Movement\\Movement-1000110.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000110,
+            "file_path": "results\\test13\\Movement.onnx",
+            "reward": 0.3000001907348633,
+            "creation_time": 1703291509.4611287,
+            "auxillary_file_paths": [
+                "results\\test13\\Movement\\Movement-1000110.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.1.2+cu121"
+    }
+}
